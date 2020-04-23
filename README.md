@@ -1,0 +1,2 @@
+# Introduction-to-the-Ethics-of-AI-Data-Storage
+You will look at several case studies, examining everything from AI being used to manipulate elections, to AI displaying racial and sexist prejudices. Implement a simple sentiment classifier to differentiate between positive and negative words and sentences. You'll observe how this works in many cases, and display the problematic biases and human stereotypes in the classifier.
