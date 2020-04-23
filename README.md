@@ -1,2 +1,7 @@
-# Introduction-to-the-Ethics-of-AI-Data-Storage
-You will look at several case studies, examining everything from AI being used to manipulate elections, to AI displaying racial and sexist prejudices. Implement a simple sentiment classifier to differentiate between positive and negative words and sentences. You'll observe how this works in many cases, and display the problematic biases and human stereotypes in the classifier.
+# Introduction to the Ethics of AI Data Storage
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage.svg)](https://github.com/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Introduction-to-the-Ethics-of-AI-Data-Storage.svg)](https://github.com/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage.svg)](https://github.com/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-the-Ethics-of-AI-Data-Storage/pulls)
+
+
